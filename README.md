@@ -28,6 +28,8 @@ Seurat-based single-cell analysis
 
 Spearman correlation analysis
 
+WGCNA for weighted gene co-expression network analysis
+
 3. Citation
 
 Chicken Single Cell Atlas 
